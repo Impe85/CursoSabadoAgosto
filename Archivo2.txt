@@ -1,2 +1,2 @@
-Linea1Original
-Linea2Original
+Linea1Origen
+Linea2Soporte
